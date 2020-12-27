@@ -1,0 +1,26 @@
+{
+	"name": "tatoebatoanki",
+	"version": "1.0.0",
+	"description": "TatoebaToAnki - Create Anki cards via Tatoeba translations.",
+	"main": "script.js",
+	"scripts": {
+		"start": "node script.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MaxiStarling56/TatoebaToAnki.git"
+	},
+	"keywords": [
+		"Tatoeba",
+		"Anki"
+	],
+	"author": "Andrea Rucco AKA MaxiStarling56",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/MaxiStarling56/TatoebaToAnki/issues"
+	},
+	"homepage": "https://github.com/MaxiStarling56/TatoebaToAnki#readme",
+	"dependencies": {
+		"event-stream": "^4.0.1"
+	}
+}
